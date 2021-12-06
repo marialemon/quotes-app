@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Quotes App</string>
+    <string name="quote1">You are strong.</string>
+    <string name="quote2">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="quote3">You are a queen.</string>
+    <string name="quote4">I am proud of you.</string>
+    <string name="quote5">In the middle of difficulty lies opportunity.</string>
+    <string name="quote6">Success is the sum of small efforts, repeated day in a day out.</string>
+    <string name="quote7">Although we cannot choose the circumstances, we can choose how we respond to them.</string>
 </resources>
