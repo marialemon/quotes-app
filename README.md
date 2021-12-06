@@ -1,4 +1,4 @@
-#Quotes App
+# Quotes App
 
 This is a mini project to practice:
 
