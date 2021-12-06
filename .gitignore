@@ -1,6 +1,9 @@
 *.iml
 .gradle
-.idea
+/gradlew
+/gradlew.bat
+/settings.gradle
+/.idea
 .DS_Store
 /app/build
 /app/libs
@@ -11,4 +14,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-.gitignore
